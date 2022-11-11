@@ -48,5 +48,5 @@ function getEmployeesCoverage(obj) {
 
   return objCorrect(name, nameObj, id, idObj);
 }
-
+// ...
 module.exports = getEmployeesCoverage;
